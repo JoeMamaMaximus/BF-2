@@ -1,4 +1,4 @@
-#include "main.h"
+#include "header/main.h"
 int main(int argc, char const *argv[])
 {
     char * text = malloc(1024*sizeof(char));
