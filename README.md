@@ -1,2 +1,2 @@
-# BF-2
+# BF++2
 Remake of the original BF++ esoteric language!
